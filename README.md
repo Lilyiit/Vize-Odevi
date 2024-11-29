@@ -19,3 +19,4 @@ Proje örnek olarak iki salon ve birkaç film ile başlatılmıştır.
 Kullanıcı Dostu Konsol Arayüzü
 ---
 Menü tabanlı arayüz ile işlemler basit ve yönlendirici bir şekilde yapılabilir.
+---
